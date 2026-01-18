@@ -1,0 +1,650 @@
+school,sex,age,address,family size,Parent status,Father edu,Mother job,Father job,Mother edu
+ Gabriel Pereira ,Female,18,urban ,greater than 3,apart,higher,at_home,teacher,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,health,services,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,services,other,higher
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3,apart,higher,other,teacher,higher
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3,apart,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,higher,teacher,health,higher
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,higher,health,services,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,higher,health,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,health,health,higher
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,higher,services,health,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,health,services,higher
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3,apart,higher,services,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,health,services,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Male,15, rural,greater than 3, living together,secondary,teacher,at_home,higher
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Male,16, rural,greater than 3,apart,higher,other,teacher,higher
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,higher,services,health,secondary 
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,higher,teacher,other,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,services,teacher,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,secondary,other,at_home,secondary 
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3,apart,secondary,other,other,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3,apart,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,health,services,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,higher,services,teacher,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3,apart,secondary,health,health,higher
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3,apart,primary,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3,apart,secondary,services,services,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,teacher,health,higher
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,secondary,other,at_home,primary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,services,other,higher
+ Gabriel Pereira ,Female,16, rural,greater than 3, living together,higher,health,teacher,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,primary,services,services,primary 
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,secondary,other,services,primary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,teacher,health,higher
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3, living together,secondary,services,services,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3,apart,higher,other,services,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Female,15, rural,less or equal to 3, living together,secondary,health,services,secondary 
+ Gabriel Pereira ,Female,15, rural,less or equal to 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,primary,teacher,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,higher,at_home,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3,apart,higher,teacher,health,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,services,other,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,secondary,services,health,secondary 
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Male,16, rural,greater than 3, living together,secondary,services,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,higher,other,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,at_home,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,services,teacher,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,services,other,higher
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3,apart,higher,services,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3,apart,secondary,other,health,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,15, rural,greater than 3, living together,higher,other,other,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,higher,health,health,higher
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3,apart,higher,teacher,teacher,higher
+ Gabriel Pereira ,Female,16, rural,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,15, rural,greater than 3, living together,primary,health,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,other,teacher,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,secondary,other,other,primary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,at_home,services,primary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,higher,other,health,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,health,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,higher,services,services,secondary 
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3,apart,higher,other,other,secondary 
+ Gabriel Pereira ,Female,19,urban ,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Male,16, rural,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,higher,services,teacher,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3,apart,primary,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3,apart,higher,services,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,primary,at_home,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,15, rural,greater than 3, living together,higher,at_home,teacher,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,higher,services,at_home,higher
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,higher,at_home,other,secondary 
+ Gabriel Pereira ,Female,16, rural,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,primary,services,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3,apart,secondary,other,services,secondary 
+ Gabriel Pereira ,Female,16, rural,greater than 3, living together,primary,other,services,primary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,primary,services,other,primary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Male,15,urban ,greater than 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Female,15,urban ,greater than 3,apart,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,higher,teacher,services,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,primary,at_home,at_home,primary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,primary,other,services,primary 
+ Gabriel Pereira ,Female,15,urban ,less or equal to 3,apart,primary,at_home,other,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,health,services,secondary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,at_home,other,primary 
+ Gabriel Pereira ,Female,15,urban ,greater than 3, living together,secondary,at_home,services,primary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3,apart,primary,services,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,primary,at_home,other,secondary 
+ Gabriel Pereira ,Female,15, rural,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,19,urban ,greater than 3, living together,secondary,services,at_home,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,other,teacher,higher
+ Gabriel Pereira ,Male,15, rural,greater than 3, living together,secondary,at_home,services,secondary 
+ Gabriel Pereira ,Male,17, rural,less or equal to 3, living together,secondary,other,other,primary 
+ Gabriel Pereira ,Female,18, rural,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Male,16, rural,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,health,services,primary 
+ Gabriel Pereira ,Male,17, rural,less or equal to 3, living together,primary,at_home,other,secondary 
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,15,urban ,less or equal to 3, living together,secondary,other,other,primary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,at_home,services,primary 
+ Gabriel Pereira ,Male,17, rural,less or equal to 3, living together,primary,other,services,primary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,health,services,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,higher,health,health,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,other,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,higher,teacher,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,at_home,services,primary 
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,16, rural,greater than 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,services,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,services,services,primary 
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3,apart,secondary,health,other,secondary 
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,secondary,at_home,other,primary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,at_home,services,primary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,at_home,services,primary 
+ Gabriel Pereira ,Male,16, rural,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,higher,services,services,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,higher,services,teacher,higher
+ Gabriel Pereira ,Male,16, rural,less or equal to 3, living together,secondary,teacher,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,services,teacher,higher
+ Gabriel Pereira ,Female,16,urban ,less or equal to 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16, rural,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,at_home,services,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3,apart,primary,services,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Female,19,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,higher,services,other,higher
+ Gabriel Pereira ,Female,16,urban ,greater than 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,17, rural,less or equal to 3, living together,higher,services,other,higher
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,secondary,services,health,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,at_home,at_home,secondary 
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,primary,at_home,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,services,teacher,secondary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,higher,teacher,services,higher
+ Gabriel Pereira ,Female,18, rural,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,primary,at_home,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3,apart,primary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,health,other,higher
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3,apart,primary,other,other,higher
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3,apart,higher,services,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,secondary,at_home,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,other,at_home,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,primary,at_home,at_home,primary 
+ Gabriel Pereira ,Female,16,urban ,greater than 3, living together,secondary,other,other,primary 
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,primary,at_home,services,secondary 
+ Gabriel Pereira ,Female,17, rural,less or equal to 3,apart,higher,other,other,primary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17, rural,less or equal to 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3,apart,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Male,17, rural,less or equal to 3,apart,higher,teacher,other,higher
+ Gabriel Pereira ,Male,16,urban ,less or equal to 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,teacher,services,higher
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,other,services,primary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,22,urban ,greater than 3, living together,primary,services,services,secondary 
+ Gabriel Pereira ,Male,18, rural,less or equal to 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,other,other,primary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,16,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,primary,services,services,secondary 
+ Gabriel Pereira ,Male,16, rural,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,primary,health,other,primary 
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3,apart,primary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Female,19,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,primary,other,at_home,primary 
+ Gabriel Pereira ,Female,18, rural,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,19,urban ,less or equal to 3,apart,secondary,services,at_home,higher
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,20, rural,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,services,other,higher
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,18, rural,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,at_home,services,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,18, rural,less or equal to 3,apart,higher,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Female,18, rural,greater than 3, living together,higher,teacher,other,higher
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Female,18, rural,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,19,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,secondary,at_home,at_home,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,at_home,health,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,18, rural,greater than 3,apart,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,higher,teacher,services,higher
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,higher,health,health,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Female,19, rural,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,at_home,other,primary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3,apart,primary,services,other,higher
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3,apart,secondary,teacher,services,secondary 
+ Gabriel Pereira ,Female,18, rural,less or equal to 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,at_home,at_home,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,services,teacher,primary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,primary,services,services,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3,apart,higher,teacher,teacher,higher
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,health,services,higher
+ Gabriel Pereira ,Female,17, rural,less or equal to 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Male,18, rural,less or equal to 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,health,other,secondary 
+ Gabriel Pereira ,Female,19,urban ,greater than 3, living together,higher,health,other,higher
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3,apart,higher,health,other,higher
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3, living together,higher,other,teacher,higher
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,higher,services,services,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,health,health,secondary 
+ Gabriel Pereira ,Male,19, rural,less or equal to 3, living together,primary,at_home,services,secondary 
+ Gabriel Pereira ,Male,20,urban ,greater than 3,apart,secondary,services,other,secondary 
+ Gabriel Pereira ,Male,19, rural,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,higher,other,teacher,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,other,other,higher
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,secondary,health,services,higher
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,higher,at_home,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Male,19,urban ,greater than 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,higher,teacher,other,higher
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,higher,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,health,health,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3,apart,secondary,services,services,higher
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3,apart,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,higher,other,other,higher
+ Gabriel Pereira ,Female,19,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,19,urban ,less or equal to 3,apart,primary,other,other,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,17, rural,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,services,services,secondary 
+ Gabriel Pereira ,Female,17,urban ,less or equal to 3, living together,secondary,at_home,at_home,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,higher,other,other,higher
+ Gabriel Pereira ,Male,17,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,17, rural,greater than 3, living together,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,teacher,services,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,teacher,teacher,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,19, rural,greater than 3, living together,secondary,at_home,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Female,17, rural,greater than 3, living together,higher,at_home,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,18, rural,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,higher,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Female,17, rural,greater than 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,higher,teacher,services,higher
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,higher,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3,apart,secondary,at_home,at_home,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,18, rural,greater than 3, living together,secondary,teacher,services,higher
+ Gabriel Pereira ,Male,18,urban ,greater than 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,health,other,higher
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,services,other,secondary 
+ Gabriel Pereira ,Female,19,urban ,less or equal to 3,apart,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,primary,other,at_home,secondary 
+ Gabriel Pereira ,Female,21,urban ,less or equal to 3, living together,higher,other,other,higher
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,18,urban ,less or equal to 3,apart,higher,other,other,secondary 
+ Gabriel Pereira ,Female,17,urban ,greater than 3, living together,secondary,services,services,secondary 
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3,apart,higher,health,other,higher
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3, living together,secondary,teacher,other,higher
+ Gabriel Pereira ,Male,21, rural,less or equal to 3, living together,primary,at_home,other,primary 
+ Gabriel Pereira ,Female,20, rural,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,19,urban ,greater than 3, living together,higher,teacher,other,higher
+ Gabriel Pereira ,Male,17,urban ,less or equal to 3,apart,secondary,other,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+ Gabriel Pereira ,Male,18, rural,greater than 3, living together,secondary,other,services,secondary 
+ Gabriel Pereira ,Male,19,urban ,greater than 3, living together,primary,other,other,secondary 
+ Gabriel Pereira ,Female,18,urban ,less or equal to 3,apart,secondary,services,other,secondary 
+ Gabriel Pereira ,Female,20,urban ,greater than 3, living together,primary,other,other,primary 
+ Gabriel Pereira ,Female,18,urban ,greater than 3, living together,secondary,services,other,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,secondary,at_home,other,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,at_home,services,secondary 
+Mousinho da Silveira,Female,15, rural,less or equal to 3, living together,primary,at_home,other,secondary 
+Mousinho da Silveira,Male,16, rural,less or equal to 3,apart,higher,at_home,other,higher
+Mousinho da Silveira,Male,16,urban ,greater than 3,apart,secondary,other,other,primary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,higher,teacher,other,higher
+Mousinho da Silveira,Female,16,urban ,less or equal to 3,apart,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,15, rural,less or equal to 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Female,15, rural,less or equal to 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,secondary,other,services,secondary 
+Mousinho da Silveira,Male,16,urban ,greater than 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Male,15, rural,less or equal to 3, living together,primary,health,services,higher
+Mousinho da Silveira,Male,15, rural,less or equal to 3, living together,primary,health,services,higher
+Mousinho da Silveira,Male,16, rural,greater than 3, living together,higher,other,health,secondary 
+Mousinho da Silveira,Male,15, rural,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Male,15,urban ,less or equal to 3, living together,secondary,at_home,at_home,secondary 
+Mousinho da Silveira,Male,17, rural,greater than 3, living together,primary,other,other,secondary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,higher,teacher,teacher,higher
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,secondary,other,services,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,other,services,secondary 
+Mousinho da Silveira,Male,16, rural,greater than 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,secondary,other,services,primary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,secondary,other,services,primary 
+Mousinho da Silveira,Female,15,urban ,greater than 3, living together,primary,at_home,other,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Male,17, rural,less or equal to 3, living together,secondary,at_home,services,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,primary,at_home,at_home,primary 
+Mousinho da Silveira,Female,15, rural,less or equal to 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Male,16, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Male,15,urban ,greater than 3, living together,primary,other,services,secondary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,other,services,secondary 
+Mousinho da Silveira,Male,15,urban ,greater than 3, living together,secondary,health,other,secondary 
+Mousinho da Silveira,Male,16,urban ,greater than 3, living together,higher,other,teacher,higher
+Mousinho da Silveira,Female,15, rural,greater than 3, living together,secondary,services,other,secondary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Male,16,urban ,less or equal to 3, living together,primary,at_home,services,secondary 
+Mousinho da Silveira,Male,15, rural,less or equal to 3, living together,secondary,at_home,other,primary 
+Mousinho da Silveira,Female,15,urban ,greater than 3, living together,secondary,other,services,secondary 
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,primary,other,other,secondary 
+Mousinho da Silveira,Male,15,urban ,greater than 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,other,at_home,secondary 
+Mousinho da Silveira,Female,19,urban ,greater than 3, living together,secondary,at_home,services,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,at_home,other,secondary 
+Mousinho da Silveira,Female,15, rural,less or equal to 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,16,urban ,less or equal to 3,apart,secondary,other,other,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,secondary,other,services,secondary 
+Mousinho da Silveira,Female,18, rural,less or equal to 3,apart,secondary,other,other,secondary 
+Mousinho da Silveira,Female,19,urban ,greater than 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,primary,at_home,at_home,primary 
+Mousinho da Silveira,Female,19,urban ,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3,apart,secondary,health,other,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,primary,other,at_home,primary 
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,secondary,at_home,other,primary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,primary,services,services,primary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,secondary,services,at_home,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,primary,other,services,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,secondary,services,other,secondary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Male,16,urban ,less or equal to 3, living together,secondary,other,other,higher
+Mousinho da Silveira,Male,17, rural,less or equal to 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,19,urban ,less or equal to 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,20,urban ,greater than 3, living together,secondary,at_home,services,secondary 
+Mousinho da Silveira,Female,17,urban ,less or equal to 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Male,17, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3,apart,primary,other,other,primary 
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,primary,other,other,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,secondary,services,at_home,secondary 
+Mousinho da Silveira,Female,18,urban ,less or equal to 3, living together,primary,other,at_home,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,higher,health,teacher,higher
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3,apart,higher,other,services,secondary 
+Mousinho da Silveira,Male,16, rural,greater than 3, living together,primary,other,services,secondary 
+Mousinho da Silveira,Female,16,urban ,less or equal to 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,at_home,services,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,higher,health,health,higher
+Mousinho da Silveira,Male,18,urban ,less or equal to 3, living together,higher,at_home,health,higher
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,higher,at_home,other,secondary 
+Mousinho da Silveira,Male,17,urban ,less or equal to 3, living together,higher,other,services,higher
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,other,other,higher
+Mousinho da Silveira,Male,16,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,16,urban ,less or equal to 3, living together,higher,services,services,higher
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Male,16,urban ,greater than 3, living together,primary,health,services,secondary 
+Mousinho da Silveira,Female,16,urban ,less or equal to 3, living together,primary,other,services,secondary 
+Mousinho da Silveira,Male,16,urban ,less or equal to 3, living together,higher,teacher,health,higher
+Mousinho da Silveira,Male,15, rural,greater than 3, living together,secondary,other,services,primary 
+Mousinho da Silveira,Male,15,urban ,less or equal to 3,apart,secondary,other,other,secondary 
+Mousinho da Silveira,Male,15,urban ,less or equal to 3,apart,primary,services,services,secondary 
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,16,urban ,less or equal to 3, living together,primary,other,other,higher
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3, living together,higher,teacher,services,higher
+Mousinho da Silveira,Male,17, rural,greater than 3, living together,higher,health,other,higher
+Mousinho da Silveira,Male,17, rural,less or equal to 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,higher,services,other,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,higher,health,health,higher
+Mousinho da Silveira,Male,16, rural,less or equal to 3, living together,primary,other,at_home,higher
+Mousinho da Silveira,Female,17,urban ,greater than 3,apart,primary,at_home,at_home,primary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,other,other,higher
+Mousinho da Silveira,Male,16,urban ,less or equal to 3,apart,secondary,other,services,secondary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Male,19,urban ,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Male,17,urban ,less or equal to 3,apart,primary,other,other,primary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,at_home,at_home,primary 
+Mousinho da Silveira,Female,16, rural,greater than 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Male,16, rural,less or equal to 3, living together,secondary,other,at_home,primary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,other,other,secondary 
+Mousinho da Silveira,Male,17, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,primary,at_home,at_home,primary 
+Mousinho da Silveira,Male,17, rural,greater than 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Male,18,urban ,less or equal to 3, living together,primary,at_home,at_home,primary 
+Mousinho da Silveira,Female,16, rural,less or equal to 3, living together,secondary,other,services,secondary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Male,16, rural,greater than 3, living together,secondary,services,other,secondary 
+Mousinho da Silveira,Male,16, rural,less or equal to 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,primary,services,other,primary 
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,secondary,services,other,secondary 
+Mousinho da Silveira,Male,19,urban ,greater than 3, living together,secondary,at_home,services,secondary 
+Mousinho da Silveira,Male,18,urban ,greater than 3, living together,secondary,at_home,at_home,secondary 
+Mousinho da Silveira,Male,16, rural,greater than 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Male,19,urban ,greater than 3, living together,primary,at_home,other,secondary 
+Mousinho da Silveira,Female,16,urban ,greater than 3,apart,secondary,services,at_home,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,primary,other,at_home,primary 
+Mousinho da Silveira,Male,20, rural,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,18, rural,greater than 3,apart,secondary,services,services,higher
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Male,19, rural,greater than 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,secondary,health,other,secondary 
+Mousinho da Silveira,Male,18,urban ,less or equal to 3, living together,secondary,at_home,services,primary 
+Mousinho da Silveira,Male,19, rural,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3,apart,secondary,at_home,other,primary 
+Mousinho da Silveira,Female,19,urban ,less or equal to 3,apart,primary,at_home,other,primary 
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,17, rural,less or equal to 3,apart,primary,other,at_home,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,teacher,services,higher
+Mousinho da Silveira,Female,18, rural,less or equal to 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,primary,health,at_home,higher
+Mousinho da Silveira,Female,17,urban ,less or equal to 3, living together,secondary,at_home,other,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,services,at_home,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,18,urban ,less or equal to 3,apart,secondary,at_home,other,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,higher,teacher,teacher,higher
+Mousinho da Silveira,Male,18,urban ,less or equal to 3, living together,higher,services,other,higher
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,other,other,higher
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Male,18,urban ,less or equal to 3, living together,secondary,at_home,services,primary 
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,higher,at_home,services,higher
+Mousinho da Silveira,Male,17, rural,greater than 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,18,urban ,less or equal to 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,18, rural,less or equal to 3,apart,secondary,teacher,other,higher
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Female,19,urban ,greater than 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,teacher,other,higher
+Mousinho da Silveira,Female,17, rural,less or equal to 3,apart,primary,services,other,secondary 
+Mousinho da Silveira,Female,18,urban ,less or equal to 3,apart,primary,at_home,services,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,at_home,at_home,primary 
+Mousinho da Silveira,Female,19, rural,greater than 3,apart,primary,at_home,at_home,primary 
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,secondary,services,other,secondary 
+Mousinho da Silveira,Male,17, rural,greater than 3, living together,secondary,services,other,higher
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,higher,teacher,services,higher
+Mousinho da Silveira,Female,17,urban ,less or equal to 3,apart,secondary,services,other,secondary 
+Mousinho da Silveira,Male,18,urban ,less or equal to 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Female,18,urban ,less or equal to 3, living together,primary,at_home,services,primary 
+Mousinho da Silveira,Female,18, rural,less or equal to 3,apart,secondary,at_home,other,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,services,services,secondary 
+Mousinho da Silveira,Female,17,urban ,less or equal to 3, living together,higher,at_home,at_home,higher
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,other,services,primary 
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,secondary,at_home,other,primary 
+Mousinho da Silveira,Male,18,urban ,less or equal to 3, living together,higher,teacher,services,higher
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,at_home,services,secondary 
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,higher,other,teacher,higher
+Mousinho da Silveira,Male,18, rural,less or equal to 3, living together,secondary,at_home,services,primary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,other,at_home,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,secondary,other,other,primary 
+Mousinho da Silveira,Female,18, rural,less or equal to 3, living together,higher,other,other,higher
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Female,19, rural,greater than 3, living together,primary,at_home,other,primary 
+Mousinho da Silveira,Female,18, rural,less or equal to 3, living together,higher,teacher,services,higher
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,secondary,other,other,secondary 
+Mousinho da Silveira,Female,17, rural,greater than 3, living together,primary,at_home,other,secondary 
+Mousinho da Silveira,Male,18,urban ,greater than 3, living together,higher,teacher,teacher,higher
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,primary,other,other,secondary 
+Mousinho da Silveira,Male,17,urban ,greater than 3, living together,secondary,other,services,secondary 
+Mousinho da Silveira,Male,19, rural,greater than 3, living together,primary,other,services,primary 
+Mousinho da Silveira,Male,18, rural,greater than 3, living together,secondary,other,other,higher
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,secondary,at_home,other,secondary 
+Mousinho da Silveira,Female,17,urban ,greater than 3, living together,secondary,teacher,other,higher
+Mousinho da Silveira,Female,18, rural,greater than 3, living together,higher,teacher,at_home,higher
+Mousinho da Silveira,Female,19, rural,greater than 3, living together,secondary,services,other,secondary 
+Mousinho da Silveira,Female,18,urban ,less or equal to 3, living together,primary,teacher,services,secondary 
+Mousinho da Silveira,Female,18,urban ,greater than 3, living together,primary,other,other,primary 
+Mousinho da Silveira,Male,17,urban ,less or equal to 3, living together,primary,services,services,secondary 
+Mousinho da Silveira,Male,18, rural,less or equal to 3, living together,secondary,services,other,secondary 
